@@ -1,0 +1,74 @@
+/**
+ * Additional CSS Fixes for Admin Dashboard
+ *
+ * Add this to a new file in assets/css/admin-fixes.css and include it in your admin-header.php
+ * Or add these styles inline in the <head> section of your admin pages
+ */
+
+/* Chart container fixes */
+.chart-container {
+    position: relative;
+    height: 300px !important;
+    max-height: 300px !important;
+    min-height: 300px !important;
+    width: 100%;
+    overflow: hidden !important;
+}
+
+.chart-container-sm {
+    height: 200px !important;
+    max-height: 200px !important;
+    width: 100%;
+    position: relative;
+    overflow: hidden !important;
+}
+
+/* Fix for grid layout containing charts */
+.grid-cols-2 {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+}
+
+/* Fix for chart dimensions */
+canvas.chart-canvas {
+    max-height: 100% !important;
+}
+
+/* Admin card fixes */
+.card {
+    background-color: #1f2937;
+    border-radius: 0.5rem;
+    border: 1px solid rgba(55, 65, 81, 0.5);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+    height: 100%;
+}
+
+.card-header {
+    padding: 1.25rem;
+    border-bottom: 1px solid rgba(55, 65, 81, 0.5);
+}
+
+.card-body {
+    padding: 1.25rem;
+}
+
+/* Dashboard layout fixes */
+.dashboard-grid {
+    display: grid;
+    grid-gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .dashboard-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .dashboard-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

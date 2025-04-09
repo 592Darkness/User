@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <!-- Background -->
+  <rect width="800" height="800" fill="#1f2937" />
+  
+  <!-- Subtle gradient overlay -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#1f2937" stop-opacity="0.0" />
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.5" />
+    </linearGradient>
+    
+    <!-- Animation paths -->
+    <path id="circle-path" d="M400,400 m-200,0 a200,200 0 1,0 400,0 a200,200 0 1,0 -400,0" />
+    
+    <!-- Filter for glow effects -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Apply gradient overlay -->
+  <rect width="800" height="800" fill="url(#bg-gradient)" />
+  
+  <!-- Geometric Pattern Grid -->
+  <g fill="none" stroke="#10b981" stroke-width="1.5" opacity="0.12">
+    <!-- Horizontal and Vertical Grid Lines -->
+    <g>
+      <path d="M0,100 L800,100" />
+      <path d="M0,200 L800,200" />
+      <path d="M0,300 L800,300" />
+      <path d="M0,400 L800,400" />
+      <path d="M0,500 L800,500" />
+      <path d="M0,600 L800,600" />
+      <path d="M0,700 L800,700" />
+      
+      <path d="M100,0 L100,800" />
+      <path d="M200,0 L200,800" />
+      <path d="M300,0 L300,800" />
+      <path d="M400,0 L400,800" />
+      <path d="M500,0 L500,800" />
+      <path d="M600,0 L600,800" />
+      <path d="M700,0 L700,800" />
+    </g>
+    
+    <!-- Diagonal Grid Lines -->
+    <g>
+      <path d="M0,0 L800,800" />
+      <path d="M0,800 L800,0" />
+      
+      <path d="M0,400 L400,0" />
+      <path d="M400,0 L800,400" />
+      <path d="M800,400 L400,800" />
+      <path d="M400,800 L0,400" />
+    </g>
+  </g>
+  
+  <!-- Stars and Islamic Geometric Elements with animations -->
+  <g>
+    <!-- Central pattern -->
+    <g fill="#10b981" opacity="0.2" stroke="#f59e0b" stroke-width="0.5">
+      <!-- Eight-pointed star at center -->
+      <path d="M400,350 L420,400 L470,420 L420,440 L400,490 L380,440 L330,420 L380,400 Z">
+        <animate attributeName="opacity" values="0.2;0.3;0.2" dur="8s" repeatCount="indefinite" />
+      </path>
+      
+      <!-- Eight-pointed stars in corners -->
+      <path d="M150,150 L170,200 L220,220 L170,240 L150,290 L130,240 L80,220 L130,200 Z">
+        <animate attributeName="opacity" values="0.2;0.3;0.2" dur="6s" begin="1s" repeatCount="indefinite" />
+      </path>
+      <path d="M650,150 L670,200 L720,220 L670,240 L650,290 L630,240 L580,220 L630,200 Z">
+        <animate attributeName="opacity" values="0.2;0.3;0.2" dur="6s" begin="2s" repeatCount="indefinite" />
+      </path>
+      <path d="M150,650 L170,700 L220,720 L170,740 L150,790 L130,740 L80,720 L130,700 Z">
+        <animate attributeName="opacity" values="0.2;0.3;0.2" dur="6s" begin="3s" repeatCount="indefinite" />
+      </path>
+      <path d="M650,650 L670,700 L720,720 L670,740 L650,790 L630,740 L580,720 L630,700 Z">
+        <animate attributeName="opacity" values="0.2;0.3;0.2" dur="6s" begin="4s" repeatCount="indefinite" />
+      </path>
+    </g>
+    
+    <!-- Animated circles for decorative elements -->
+    <g fill="none" stroke="#f59e0b" stroke-width="1" opacity="0.15">
+      <circle cx="400" cy="400" r="100">
+        <animate attributeName="r" values="100;105;100" dur="5s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.15;0.2;0.15" dur="5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="400" cy="400" r="150">
+        <animate attributeName="r" values="150;155;150" dur="7s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.15;0.1;0.15" dur="7s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="400" cy="400" r="200">
+        <animate attributeName="r" values="200;205;200" dur="9s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="400" cy="400" r="250">
+        <animate attributeName="r" values="250;260;250" dur="15s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.15;0.07;0.15" dur="15s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="400" cy="400" r="300">
+        <animate attributeName="r" values="300;310;300" dur="20s" repeatCount="indefinite" />
+      </circle>
+    </g>
+    
+    <!-- Central Islamic flower pattern -->
+    <g fill="#f59e0b" opacity="0.1">
+      <g>
+        <animate attributeName="transform" attributeType="XML" type="rotate" from="0 400 400" to="360 400 400" dur="60s" repeatCount="indefinite" />
+        <path d="M400,300 Q430,350 400,400 Q370,350 400,300 Z" />
+        <path d="M400,300 Q450,330 500,300 Q450,270 400,300 Z" />
+        <path d="M500,300 Q450,330 400,400 Q450,370 500,300 Z" />
+        <path d="M500,300 Q450,270 400,400 Q450,370 500,300 Z" />
+        
+        <path d="M400,300 Q350,330 300,300 Q350,270 400,300 Z" />
+        <path d="M300,300 Q350,330 400,400 Q350,370 300,300 Z" />
+        <path d="M300,300 Q350,270 400,400 Q350,370 300,300 Z" />
+        
+        <path d="M400,500 Q430,450 400,400 Q370,450 400,500 Z" />
+        <path d="M400,500 Q450,470 500,500 Q450,530 400,500 Z" />
+        <path d="M500,500 Q450,470 400,400 Q450,430 500,500 Z" />
+        <path d="M500,500 Q450,530 400,400 Q450,430 500,500 Z" />
+        
+        <path d="M400,500 Q350,470 300,500 Q350,530 400,500 Z" />
+        <path d="M300,500 Q350,470 400,400 Q350,430 300,500 Z" />
+        <path d="M300,500 Q350,530 400,400 Q350,430 300,500 Z" />
+      </g>
+    </g>
+    
+    <!-- Floating elements -->
+    <g opacity="0.15">
+      <!-- Small geometric shapes that float -->
+      <rect x="150" y="350" width="10" height="10" fill="#10b981">
+        <animateTransform attributeName="transform" attributeType="XML" type="translate"
+          values="0,0; 5,10; 0,0" dur="20s" repeatCount="indefinite" />
+      </rect>
+      
+      <rect x="600" y="250" width="12" height="12" fill="#10b981">
+        <animateTransform attributeName="transform" attributeType="XML" type="translate"
+          values="0,0; -8,12; 0,0" dur="25s" repeatCount="indefinite" />
+      </rect>
+      
+      <polygon points="350,650 358,665 342,665" fill="#f59e0b">
+        <animateTransform attributeName="transform" attributeType="XML" type="translate"
+          values="0,0; 10,-5; 0,0" dur="18s" repeatCount="indefinite" />
+      </polygon>
+      
+      <circle cx="550" cy="500" r="6" fill="#f59e0b">
+        <animateTransform attributeName="transform" attributeType="XML" type="translate"
+          values="0,0; -15,-5; 0,0" dur="15s" repeatCount="indefinite" />
+      </circle>
+    </g>
+  </g>
+  
+  <!-- Small decorative crescent moon symbols with pulse effect -->
+  <g fill="#f59e0b" opacity="0.5">
+    <path d="M750,50 A20,20 0 0,1 750,90 A15,15 0 0,0 750,50 Z">
+      <animate attributeName="opacity" values="0.5;0.7;0.5" dur="4s" repeatCount="indefinite" />
+    </path>
+    <path d="M50,750 A20,20 0 0,1 50,790 A15,15 0 0,0 50,750 Z">
+      <animate attributeName="opacity" values="0.5;0.7;0.5" dur="4s" begin="2s" repeatCount="indefinite" />
+    </path>
+  </g>
+  
+  <!-- Arabic-inspired calligraphy symbol (stylized Bismillah) -->
+  <g transform="translate(400, 50) scale(0.5)" opacity="0.3" fill="#10b981">
+    <path d="M0,0 C10,-20 20,-10 20,0 S10,20 0,0 Z M30,0 C40,-20 50,-10 50,0 S40,20 30,0 Z M-30,0 C-40,-20 -50,-10 -50,0 S-40,20 -30,0 Z" />
+    <path d="M-70,0 C-60,-10 -50,10 -40,0 C-30,-10 -20,10 -10,0 C0,-10 10,10 20,0 C30,-10 40,10 50,0 C60,-10 70,10 80,0" stroke="#10b981" stroke-width="2" fill="none">
+      <animate attributeName="stroke-dasharray" values="0,500;500,0;0,500" dur="15s" repeatCount="indefinite" />
+    </path>
+  </g>
+  
+  <!-- Mosque dome silhouette with subtle animation -->
+  <g transform="translate(400, 650)" opacity="0.15">
+    <path d="M-100,0 L100,0 C80,-60 -80,-60 -100,0 Z" fill="#10b981">
+      <animate attributeName="opacity" values="0.15;0.2;0.15" dur="10s" repeatCount="indefinite" />
+    </path>
+    <rect x="-80" y="0" width="160" height="40" fill="#10b981" />
+    <path d="M-30,40 L-30,70 L30,70 L30,40" fill="none" stroke="#10b981" stroke-width="2" />
+    
+    <!-- Minaret -->
+    <path d="M-120,-10 L-120,100 L-100,100 L-100,-10" fill="#10b981" />
+    <path d="M-130,100 L-90,100" stroke="#10b981" stroke-width="2" fill="none" />
+    <path d="M-120,-30 L-110,-10 L-130,-10 Z" fill="#10b981" />
+    
+    <!-- Minaret -->
+    <path d="M120,-10 L120,100 L100,100 L100,-10" fill="#10b981" />
+    <path d="M130,100 L90,100" stroke="#10b981" stroke-width="2" fill="none" />
+    <path d="M120,-30 L110,-10 L130,-10 Z" fill="#10b981" />
+  </g>
+  
+  <!-- Moving particles -->
+  <g filter="url(#glow)">
+    <circle cx="300" cy="200" r="2" fill="#10b981" opacity="0.6">
+      <animateMotion dur="30s" repeatCount="indefinite" path="M0,0 C50,100 150,-50 200,100 C250,250 -150,150 0,0" />
+    </circle>
+    <circle cx="500" cy="300" r="2" fill="#10b981" opacity="0.6">
+      <animateMotion dur="25s" repeatCount="indefinite" path="M0,0 C-100,50 100,150 -50,200 C-150,100 150,-100 0,0" />
+    </circle>
+    <circle cx="200" cy="600" r="1.5" fill="#f59e0b" opacity="0.5">
+      <animateMotion dur="40s" repeatCount="indefinite" path="M0,0 C120,-80 -80,120 0,180 C80,240 -120,-40 0,0" />
+    </circle>
+    <circle cx="600" cy="400" r="1.5" fill="#f59e0b" opacity="0.5">
+      <animateMotion dur="35s" repeatCount="indefinite" path="M0,0 C-90,60 90,-120 -30,-180 C-150,-240 150,50 0,0" />
+    </circle>
+  </g>
+</svg>

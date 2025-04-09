@@ -1,0 +1,868 @@
+[05-Apr-2025 07:56:31 America/New_York] Dashboard session: {"csrf_token":"05b8e5e8316613634465414a42a02b7fcfaa6099a1ad6a157b987f3ca1b2e1cb","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null},"current_booking":{"id":3,"pickup":"52 Fifth Street, Georgetown, Guyana","dropoff":"93 Independence Street, Vreed en Hoop, Guyana","vehicle_type":"standard","promo_code":"","fare":3200,"status":"searching","created_at":"2025-04-05 07:08:38"},"driver_id":1,"driver":{"id":1,"name":"Zack Rollox","email":"derouchecandacy@gmail.com","phone":"+5927355678","rating":"5.0","vehicle":"Toyota primo 2022","plate":"ppl567","status":"available"}}
+[05-Apr-2025 07:56:31 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 07:56:31 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 07:56:31 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 07:56:31 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:01:46 America/New_York] Dashboard session: []
+[05-Apr-2025 08:01:46 America/New_York] User not logged in, redirecting
+[05-Apr-2025 08:01:46 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 08:01:59 America/New_York] Login process started
+[05-Apr-2025 08:01:59 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 08:02:00 America/New_York] User logged in: {"csrf_token":"00ff66d640266d73e2a0197c8ffd71af4c917e40042ba4f94de7caa027392a16","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:02:00 America/New_York] Dashboard session: {"csrf_token":"00ff66d640266d73e2a0197c8ffd71af4c917e40042ba4f94de7caa027392a16","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:02:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:02:00 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:02:00 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:02:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:09 America/New_York] Dashboard session: {"csrf_token":"00ff66d640266d73e2a0197c8ffd71af4c917e40042ba4f94de7caa027392a16","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:07:09 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:09 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:07:09 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:09 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:22 America/New_York] Dashboard session: {"csrf_token":"00ff66d640266d73e2a0197c8ffd71af4c917e40042ba4f94de7caa027392a16","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:07:22 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:22 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:07:22 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:22 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:38 America/New_York] Dashboard session: []
+[05-Apr-2025 08:07:38 America/New_York] User not logged in, redirecting
+[05-Apr-2025 08:07:38 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 08:07:44 America/New_York] Login process started
+[05-Apr-2025 08:07:44 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 08:07:44 America/New_York] User logged in: {"csrf_token":"ff72a905aa198edfec5c36d0ad60458c88186b8010b41bd55752f2bc66219c88","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:07:44 America/New_York] Dashboard session: {"csrf_token":"ff72a905aa198edfec5c36d0ad60458c88186b8010b41bd55752f2bc66219c88","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:07:44 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:44 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:07:44 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:07:44 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:09:51 America/New_York] Dashboard session: {"csrf_token":"ff72a905aa198edfec5c36d0ad60458c88186b8010b41bd55752f2bc66219c88","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:09:51 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:09:51 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:09:51 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:09:51 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:09:55 America/New_York] Dashboard session: {"csrf_token":"ff72a905aa198edfec5c36d0ad60458c88186b8010b41bd55752f2bc66219c88","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:09:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:09:55 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:09:55 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:09:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:28:24 America/New_York] Dashboard session: {"csrf_token":"ff72a905aa198edfec5c36d0ad60458c88186b8010b41bd55752f2bc66219c88","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:28:24 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:28:24 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:28:24 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:28:24 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:29:18 America/New_York] Dashboard session: []
+[05-Apr-2025 08:29:18 America/New_York] User not logged in, redirecting
+[05-Apr-2025 08:29:18 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 08:29:21 America/New_York] Login process started
+[05-Apr-2025 08:29:21 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 08:29:21 America/New_York] User logged in: {"csrf_token":"618f54e49bc82f65ec348043472ca48c333a0403394fcf7c2684dc08162a4e0b","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:29:22 America/New_York] Dashboard session: {"csrf_token":"618f54e49bc82f65ec348043472ca48c333a0403394fcf7c2684dc08162a4e0b","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:29:22 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:29:22 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:29:22 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:29:22 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:35:38 America/New_York] Dashboard session: {"csrf_token":"618f54e49bc82f65ec348043472ca48c333a0403394fcf7c2684dc08162a4e0b","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:35:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:35:38 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:35:38 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:35:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:52:54 America/New_York] Dashboard session: {"csrf_token":"618f54e49bc82f65ec348043472ca48c333a0403394fcf7c2684dc08162a4e0b","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:52:54 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:52:54 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:52:54 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:52:54 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:09 America/New_York] Dashboard session: {"csrf_token":"618f54e49bc82f65ec348043472ca48c333a0403394fcf7c2684dc08162a4e0b","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:53:09 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:09 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:53:09 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:09 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:10 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:10 America/New_York] PHP Warning:  Undefined variable $method in /home/u169889364/domains/autositetest.com/public_html/api/api-saved-places.php on line 32
+[05-Apr-2025 08:53:10 America/New_York] Saved Places API fatal error: Method not allowed.
+[05-Apr-2025 08:53:10 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:10 America/New_York] PHP Warning:  Undefined variable $method in /home/u169889364/domains/autositetest.com/public_html/api/api-ride-history.php on line 29
+[05-Apr-2025 08:53:10 America/New_York] Ride History API fatal error: Method not allowed. Use GET.
+[05-Apr-2025 08:53:26 America/New_York] Dashboard session: []
+[05-Apr-2025 08:53:26 America/New_York] User not logged in, redirecting
+[05-Apr-2025 08:53:26 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 08:53:30 America/New_York] Login process started
+[05-Apr-2025 08:53:30 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 08:53:30 America/New_York] User logged in: {"csrf_token":"0cb297a9ed31c3d6cb79965828b50ec5734289da1774069d80752e3ebdccab28","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:53:30 America/New_York] Dashboard session: {"csrf_token":"0cb297a9ed31c3d6cb79965828b50ec5734289da1774069d80752e3ebdccab28","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:53:30 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:30 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:53:30 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:30 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:30 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:30 America/New_York] PHP Warning:  Undefined variable $method in /home/u169889364/domains/autositetest.com/public_html/api/api-saved-places.php on line 32
+[05-Apr-2025 08:53:30 America/New_York] Saved Places API fatal error: Method not allowed.
+[05-Apr-2025 08:53:30 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:53:30 America/New_York] PHP Warning:  Undefined variable $method in /home/u169889364/domains/autositetest.com/public_html/api/api-ride-history.php on line 29
+[05-Apr-2025 08:53:30 America/New_York] Ride History API fatal error: Method not allowed. Use GET.
+[05-Apr-2025 08:54:21 America/New_York] Dashboard session: []
+[05-Apr-2025 08:54:21 America/New_York] User not logged in, redirecting
+[05-Apr-2025 08:54:21 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 08:54:44 America/New_York] Login process started
+[05-Apr-2025 08:54:44 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 08:54:44 America/New_York] User logged in: {"csrf_token":"85fa980db1ab550ca4874eecb9ebadc585767e00f7f7f4800d0484137c7c04fe","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:54:44 America/New_York] Dashboard session: {"csrf_token":"85fa980db1ab550ca4874eecb9ebadc585767e00f7f7f4800d0484137c7c04fe","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:54:44 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:54:44 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:54:44 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:54:44 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:54:45 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:54:45 America/New_York] PHP Warning:  Undefined variable $method in /home/u169889364/domains/autositetest.com/public_html/api/api-saved-places.php on line 32
+[05-Apr-2025 08:54:45 America/New_York] Saved Places API fatal error: Method not allowed.
+[05-Apr-2025 08:54:45 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:54:45 America/New_York] PHP Warning:  Undefined variable $method in /home/u169889364/domains/autositetest.com/public_html/api/api-ride-history.php on line 29
+[05-Apr-2025 08:54:45 America/New_York] Ride History API fatal error: Method not allowed. Use GET.
+[05-Apr-2025 08:58:28 America/New_York] Dashboard session: []
+[05-Apr-2025 08:58:28 America/New_York] User not logged in, redirecting
+[05-Apr-2025 08:58:28 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 08:58:34 America/New_York] Login process started
+[05-Apr-2025 08:58:34 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 08:58:34 America/New_York] User logged in: {"csrf_token":"81ed8f77a2461914b550986b660bc5a3c8b3060837fe326b55008789c87ea7fd","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:58:34 America/New_York] Dashboard session: {"csrf_token":"81ed8f77a2461914b550986b660bc5a3c8b3060837fe326b55008789c87ea7fd","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 08:58:34 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:58:34 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 08:58:34 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:58:34 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:58:35 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 08:58:35 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:08:00 America/New_York] Dashboard session: []
+[05-Apr-2025 09:08:00 America/New_York] User not logged in, redirecting
+[05-Apr-2025 09:08:00 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 09:08:05 America/New_York] Login process started
+[05-Apr-2025 09:08:05 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 09:08:05 America/New_York] User logged in: {"csrf_token":"33a78fc15873e41d033b757a85e5a30afe5a9b982f39b15bc726af79837018cb","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 09:08:05 America/New_York] Dashboard session: {"csrf_token":"33a78fc15873e41d033b757a85e5a30afe5a9b982f39b15bc726af79837018cb","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 09:08:05 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:08:05 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 09:08:05 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:08:05 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:08:06 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:08:06 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:27:39 America/New_York] Dashboard session: {"csrf_token":"33a78fc15873e41d033b757a85e5a30afe5a9b982f39b15bc726af79837018cb","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 09:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:27:39 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 09:27:39 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:27:45 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:27:45 America/New_York] API cancel-ride error: Unknown column 'updated_at' in 'SET'
+[05-Apr-2025 09:27:59 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:27:59 America/New_York] API cancel-ride error: Unknown column 'updated_at' in 'SET'
+[05-Apr-2025 09:29:23 America/New_York] Dashboard session: []
+[05-Apr-2025 09:29:23 America/New_York] User not logged in, redirecting
+[05-Apr-2025 09:29:23 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 09:29:28 America/New_York] Login process started
+[05-Apr-2025 09:29:28 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 09:29:28 America/New_York] User logged in: {"csrf_token":"34f1b4795e18b4b96b230005819da0c90e03194e3be1dc155f98a1651e74c7fa","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 09:29:28 America/New_York] Dashboard session: {"csrf_token":"34f1b4795e18b4b96b230005819da0c90e03194e3be1dc155f98a1651e74c7fa","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 09:29:28 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:29:28 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 09:29:28 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:29:28 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:29:29 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:29:29 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:29:40 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:29:40 America/New_York] API cancel-ride error: Unknown column 'updated_at' in 'SET'
+[05-Apr-2025 09:34:59 America/New_York] Dashboard session: {"csrf_token":"34f1b4795e18b4b96b230005819da0c90e03194e3be1dc155f98a1651e74c7fa","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 09:34:59 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:34:59 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 09:34:59 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:34:59 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:35:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:35:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:35:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:35:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:35:08 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 09:35:09 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 13:06:53 America/New_York] Login process started
+[05-Apr-2025 13:06:53 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome720333!"}
+[05-Apr-2025 13:07:14 America/New_York] Login process started
+[05-Apr-2025 13:07:14 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome720333!"}
+[05-Apr-2025 13:07:27 America/New_York] Login process started
+[05-Apr-2025 13:07:27 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome720333"}
+[05-Apr-2025 13:08:24 America/New_York] Dashboard session: {"csrf_token":"d7a4e1b0837e189b9cbb68bd3044344cf68afda5bdf90504fd319467fa71de09","user_id":6,"user":{"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}}
+[05-Apr-2025 13:08:24 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:08:24 America/New_York] Dashboard user ID: 6
+[05-Apr-2025 13:08:24 America/New_York] Current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:08:24 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:08:25 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:08:25 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:10:15 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:10:40 America/New_York] Ride booking successful for user 6. Booking ID: 4
+[05-Apr-2025 13:11:41 America/New_York] Dashboard session: {"csrf_token":"d7a4e1b0837e189b9cbb68bd3044344cf68afda5bdf90504fd319467fa71de09","user_id":6,"user":{"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"},"current_booking":{"id":4,"pickup":"52 Fifth Street, Georgetown, Guyana","dropoff":"94 Independence Street, LaGrange, Guyana","vehicle_type":"standard","promo_code":"","fare":3000,"status":"searching","created_at":"2025-04-05 13:10:40"}}
+[05-Apr-2025 13:11:41 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:11:41 America/New_York] Dashboard user ID: 6
+[05-Apr-2025 13:11:41 America/New_York] Current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:11:41 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:11:42 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:11:42 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:12:05 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:12:05 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:14:04 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 13:14:47 America/New_York] Redirecting to: https://autositetest.com/driver-dashboard.php
+[05-Apr-2025 13:14:47 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:14:58 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:15:47 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:15:58 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:16:00 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:16:02 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:16:49 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:17:02 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:17:07 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 13:26:09 America/New_York] Getting current user: {"id":6,"name":"Zack Rollox","email":"zackzayden3@gmail.com","phone":"+5927102217","created_at":"2025-04-05 13:08:21"}
+[05-Apr-2025 15:09:37 America/New_York] Dashboard session: {"csrf_token":"34f1b4795e18b4b96b230005819da0c90e03194e3be1dc155f98a1651e74c7fa","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:09:37 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:37 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:09:37 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:37 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:38 America/New_York] Payment Methods API error: Unhandled endpoint: 
+[05-Apr-2025 15:09:54 America/New_York] Dashboard session: {"csrf_token":"34f1b4795e18b4b96b230005819da0c90e03194e3be1dc155f98a1651e74c7fa","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:09:54 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:54 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:09:54 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:54 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:55 America/New_York] Payment Methods API error: Unhandled endpoint: 
+[05-Apr-2025 15:09:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:09:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:20:42 America/New_York] Dashboard session: []
+[05-Apr-2025 15:20:42 America/New_York] User not logged in, redirecting
+[05-Apr-2025 15:20:42 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 15:20:52 America/New_York] Login process started
+[05-Apr-2025 15:20:52 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 15:20:52 America/New_York] User logged in: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:20:52 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:20:52 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:20:52 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:20:52 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:20:52 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:20:52 America/New_York] API Auth fatal error: Unhandled endpoint: reward-points
+[05-Apr-2025 15:20:52 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:20:52 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:20:52 America/New_York] Payment Methods API error: Unhandled endpoint: 
+[05-Apr-2025 15:20:52 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:22:57 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:22:57 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:22:57 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:22:57 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:22:57 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:22:57 America/New_York] API Auth fatal error: Unhandled endpoint: reward-points
+[05-Apr-2025 15:22:57 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:22:57 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:22:57 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:22:57 America/New_York] Payment Methods API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:01 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:23:01 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:01 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:23:01 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:01 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:02 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:02 America/New_York] Reward Points API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:02 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:02 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:02 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:02 America/New_York] Payment Methods API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:04 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:23:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:04 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:23:04 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:05 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:05 America/New_York] Reward Points API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:05 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:05 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:05 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:05 America/New_York] Payment Methods API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:06 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:23:06 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:06 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:23:06 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:06 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:06 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:06 America/New_York] Reward Points API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:06 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:06 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:06 America/New_York] Payment Methods API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:06 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:07 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:23:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:07 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:23:07 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:08 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:08 America/New_York] Reward Points API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:08 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:08 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:23:08 America/New_York] Payment Methods API error: Unhandled endpoint: 
+[05-Apr-2025 15:23:08 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:31:07 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 15:31:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:31:07 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 15:31:07 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:31:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:31:07 America/New_York] Reward Points API Request:
+[05-Apr-2025 15:31:07 America/New_York] Endpoint: 
+[05-Apr-2025 15:31:07 America/New_York] Method: GET
+[05-Apr-2025 15:31:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:31:07 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 15:31:07 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 15:31:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:31:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:31:07 America/New_York] Payment Methods API Request:
+[05-Apr-2025 15:31:07 America/New_York] Endpoint: 
+[05-Apr-2025 15:31:07 America/New_York] Method: GET
+[05-Apr-2025 15:31:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 15:31:07 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 15:31:07 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 16:03:56 America/New_York] Redirecting to: https://autositetest.com/driver-login.php
+[05-Apr-2025 19:26:46 America/New_York] Redirecting to: https://autositetest.com/driver-login.php
+[05-Apr-2025 19:26:50 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 19:26:50 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:26:50 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 19:26:50 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:26:50 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:26:51 America/New_York] Reward Points API Request:
+[05-Apr-2025 19:26:51 America/New_York] Endpoint: 
+[05-Apr-2025 19:26:51 America/New_York] Method: GET
+[05-Apr-2025 19:26:51 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:26:51 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:26:51 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:26:51 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:26:51 America/New_York] Payment Methods API Request:
+[05-Apr-2025 19:26:51 America/New_York] Endpoint: 
+[05-Apr-2025 19:26:51 America/New_York] Method: GET
+[05-Apr-2025 19:26:51 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:26:51 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:26:51 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:26:51 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:33 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 19:27:33 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:33 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 19:27:33 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:33 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:34 America/New_York] Reward Points API Request:
+[05-Apr-2025 19:27:34 America/New_York] Endpoint: 
+[05-Apr-2025 19:27:34 America/New_York] Method: GET
+[05-Apr-2025 19:27:34 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:34 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:27:34 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:27:34 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:34 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:34 America/New_York] Payment Methods API Request:
+[05-Apr-2025 19:27:34 America/New_York] Endpoint: 
+[05-Apr-2025 19:27:34 America/New_York] Method: GET
+[05-Apr-2025 19:27:34 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:34 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:27:34 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:27:37 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 19:27:37 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:37 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 19:27:37 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:37 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:38 America/New_York] Reward Points API Request:
+[05-Apr-2025 19:27:38 America/New_York] Endpoint: 
+[05-Apr-2025 19:27:38 America/New_York] Method: GET
+[05-Apr-2025 19:27:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:38 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:27:38 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:27:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:38 America/New_York] Payment Methods API Request:
+[05-Apr-2025 19:27:38 America/New_York] Endpoint: 
+[05-Apr-2025 19:27:38 America/New_York] Method: GET
+[05-Apr-2025 19:27:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:38 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:27:38 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:27:38 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:39 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 19:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:39 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 19:27:39 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:39 America/New_York] Reward Points API Request:
+[05-Apr-2025 19:27:39 America/New_York] Endpoint: 
+[05-Apr-2025 19:27:39 America/New_York] Method: GET
+[05-Apr-2025 19:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:39 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:27:39 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:39 America/New_York] Payment Methods API Request:
+[05-Apr-2025 19:27:39 America/New_York] Endpoint: 
+[05-Apr-2025 19:27:39 America/New_York] Method: GET
+[05-Apr-2025 19:27:39 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:39 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:27:39 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:27:40 America/New_York] Dashboard session: {"csrf_token":"7de5e3b66959a1c64a176c34cc5270cc14663f46b8ae41c11dcb03a1c77f6072","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 19:27:40 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:40 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 19:27:40 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:40 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:41 America/New_York] Reward Points API Request:
+[05-Apr-2025 19:27:41 America/New_York] Endpoint: 
+[05-Apr-2025 19:27:41 America/New_York] Method: GET
+[05-Apr-2025 19:27:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:41 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:27:41 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 19:27:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:41 America/New_York] Payment Methods API Request:
+[05-Apr-2025 19:27:41 America/New_York] Endpoint: 
+[05-Apr-2025 19:27:41 America/New_York] Method: GET
+[05-Apr-2025 19:27:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 19:27:41 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 19:27:41 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 20:25:23 America/New_York] Redirecting to: https://autositetest.com/driver-dashboard.php
+[05-Apr-2025 20:25:23 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 20:26:12 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 20:26:42 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:28:07 America/New_York] Redirecting to: https://autositetest.com/driver-dashboard.php
+[05-Apr-2025 20:28:07 America/New_York] Error fetching updated driver data: Unknown column 'vehicle_type' in 'SELECT'
+[05-Apr-2025 20:28:46 America/New_York] Dashboard session: {"driver_id":1,"driver":{"id":1,"name":"Zack Rollox","email":"derouchecandacy@gmail.com","phone":"+5927355678","rating":"5.0","vehicle":"Toyota primo 2022","plate":"ppl567","status":"available"},"csrf_token":"560e1af6a8ad3b88fdf2b5144ba6c2f2779156a1ba18941d1691288f0960092d"}
+[05-Apr-2025 20:28:46 America/New_York] User not logged in, redirecting
+[05-Apr-2025 20:28:46 America/New_York] Redirecting to: https://autositetest.com/index.php
+[05-Apr-2025 20:28:54 America/New_York] Login process started
+[05-Apr-2025 20:28:54 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 20:28:54 America/New_York] User logged in: {"driver_id":1,"driver":{"id":1,"name":"Zack Rollox","email":"derouchecandacy@gmail.com","phone":"+5927355678","rating":"5.0","vehicle":"Toyota primo 2022","plate":"ppl567","status":"available"},"csrf_token":"560e1af6a8ad3b88fdf2b5144ba6c2f2779156a1ba18941d1691288f0960092d","flash_message":{"type":"error","message":"Please log in to access your dashboard."},"user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 20:28:54 America/New_York] Dashboard session: {"driver_id":1,"driver":{"id":1,"name":"Zack Rollox","email":"derouchecandacy@gmail.com","phone":"+5927355678","rating":"5.0","vehicle":"Toyota primo 2022","plate":"ppl567","status":"available"},"csrf_token":"560e1af6a8ad3b88fdf2b5144ba6c2f2779156a1ba18941d1691288f0960092d","flash_message":{"type":"error","message":"Please log in to access your dashboard."},"user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 20:28:54 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:28:54 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 20:28:54 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:28:54 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:28:55 America/New_York] Reward Points API Request:
+[05-Apr-2025 20:28:55 America/New_York] Endpoint: 
+[05-Apr-2025 20:28:55 America/New_York] Method: GET
+[05-Apr-2025 20:28:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:28:55 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 20:28:55 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 20:28:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:28:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:28:55 America/New_York] Payment Methods API Request:
+[05-Apr-2025 20:28:55 America/New_York] Endpoint: 
+[05-Apr-2025 20:28:55 America/New_York] Method: GET
+[05-Apr-2025 20:28:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:28:55 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 20:28:55 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 20:29:39 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 20:30:16 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 20:30:55 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:31:14 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 20:35:59 America/New_York] Login process started
+[05-Apr-2025 20:35:59 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 20:35:59 America/New_York] User logged in: {"csrf_token":"d5bc5adafa2a30bdb6081e1eba27e1881340fb62cb02c57f89adf45a4fe6e67b","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 20:36:00 America/New_York] Dashboard session: {"csrf_token":"d5bc5adafa2a30bdb6081e1eba27e1881340fb62cb02c57f89adf45a4fe6e67b","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 20:36:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:36:00 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 20:36:00 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:36:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:36:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:36:00 America/New_York] Reward Points API Request:
+[05-Apr-2025 20:36:00 America/New_York] Endpoint: 
+[05-Apr-2025 20:36:00 America/New_York] Method: GET
+[05-Apr-2025 20:36:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:36:00 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 20:36:00 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 20:36:00 America/New_York] Payment Methods API Request:
+[05-Apr-2025 20:36:00 America/New_York] Endpoint: 
+[05-Apr-2025 20:36:00 America/New_York] Method: GET
+[05-Apr-2025 20:36:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:36:00 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 20:36:00 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 20:36:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:36:10 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:36:28 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 20:51:00 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:51:40 America/New_York] Login process started
+[05-Apr-2025 20:51:40 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 20:51:40 America/New_York] User logged in: {"csrf_token":"9f774cf46596c453ff4cbdd9d4bd021a016e93ee9f14738933263f8e63006c30","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 20:51:41 America/New_York] Dashboard session: {"csrf_token":"9f774cf46596c453ff4cbdd9d4bd021a016e93ee9f14738933263f8e63006c30","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 20:51:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:51:41 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 20:51:41 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:51:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:51:41 America/New_York] Reward Points API Request:
+[05-Apr-2025 20:51:41 America/New_York] Endpoint: 
+[05-Apr-2025 20:51:41 America/New_York] Method: GET
+[05-Apr-2025 20:51:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:51:41 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 20:51:41 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 20:51:41 America/New_York] Payment Methods API Request:
+[05-Apr-2025 20:51:41 America/New_York] Endpoint: 
+[05-Apr-2025 20:51:41 America/New_York] Method: GET
+[05-Apr-2025 20:51:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:51:41 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 20:51:41 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 20:51:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:51:41 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:51:45 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:58:54 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 20:59:05 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 20:59:05 America/New_York] Google Maps API response: {"destination_addresses":[],"error_message":"API keys with referer restrictions cannot be used with this API.","origin_addresses":[],"rows":[],"status":"REQUEST_DENIED"}
+[05-Apr-2025 20:59:05 America/New_York] Distance Matrix API failed: {"destination_addresses":[],"error_message":"API keys with referer restrictions cannot be used with this API.","origin_addresses":[],"rows":[],"status":"REQUEST_DENIED"}
+[05-Apr-2025 21:12:21 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:12:29 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 21:12:30 America/New_York] Google Maps API response: {"destination_addresses":["56 Brickdam St, Georgetown, Guyana"],"origin_addresses":["52 Stanley Place, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"3.2 km","value":3152},"duration":{"text":"7 mins","value":434},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 21:13:04 America/New_York] Login process started
+[05-Apr-2025 21:13:04 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome72022@@"}
+[05-Apr-2025 21:13:04 America/New_York] User logged in: {"csrf_token":"a9110f7b3f49b30ade4830fa6bbc6240e5de34fb828177e779177224c1d64ea5","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 21:13:04 America/New_York] Dashboard session: {"csrf_token":"a9110f7b3f49b30ade4830fa6bbc6240e5de34fb828177e779177224c1d64ea5","user_id":5,"user":{"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}}
+[05-Apr-2025 21:13:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:13:04 America/New_York] Dashboard user ID: 5
+[05-Apr-2025 21:13:04 America/New_York] Current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:13:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:13:04 America/New_York] Payment Methods API Request:
+[05-Apr-2025 21:13:04 America/New_York] Endpoint: 
+[05-Apr-2025 21:13:04 America/New_York] Method: GET
+[05-Apr-2025 21:13:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:13:04 America/New_York] Payment Methods API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 21:13:04 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 21:13:04 America/New_York] Reward Points API Request:
+[05-Apr-2025 21:13:04 America/New_York] Endpoint: 
+[05-Apr-2025 21:13:04 America/New_York] Method: GET
+[05-Apr-2025 21:13:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:13:04 America/New_York] Reward Points API FATAL ERROR: Unhandled endpoint: 
+[05-Apr-2025 21:13:04 America/New_York] Error Trace: #0 {main}
+[05-Apr-2025 21:13:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:13:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:13:10 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:13:18 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 21:13:18 America/New_York] Google Maps API response: {"destination_addresses":["56 Brickdam St, Georgetown, Guyana"],"origin_addresses":["52 Hadfield St, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"0.4 km","value":420},"duration":{"text":"1 min","value":81},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 21:21:34 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:21:50 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 21:21:51 America/New_York] Google Maps API response: {"destination_addresses":["94 Laluni St, Georgetown, Guyana"],"origin_addresses":["52 Stanley Place, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"1.7 km","value":1683},"duration":{"text":"4 mins","value":253},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 21:21:54 America/New_York] Error creating ride: Unknown column 'final_fare' in 'INSERT INTO'
+[05-Apr-2025 21:21:55 America/New_York] Error creating ride: Unknown column 'final_fare' in 'INSERT INTO'
+[05-Apr-2025 21:21:58 America/New_York] Error creating ride: Unknown column 'final_fare' in 'INSERT INTO'
+[05-Apr-2025 21:22:54 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:23:06 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 21:23:06 America/New_York] Google Maps API response: {"destination_addresses":["93 Independence St, Vreed en Hoop, Guyana"],"origin_addresses":["52 Fifth St, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"11.6 km","value":11636},"duration":{"text":"31 mins","value":1865},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 21:23:07 America/New_York] Error creating ride: Unknown column 'final_fare' in 'INSERT INTO'
+[05-Apr-2025 21:23:09 America/New_York] Error creating ride: Unknown column 'final_fare' in 'INSERT INTO'
+[05-Apr-2025 21:25:48 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:25:57 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 21:25:58 America/New_York] Google Maps API response: {"destination_addresses":["Grove, 93 Public Road, Georgetown, Guyana"],"origin_addresses":["52 Pere St, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"16.4 km","value":16411},"duration":{"text":"27 mins","value":1628},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 21:25:59 America/New_York] Error creating ride: Unknown column 'duration_seconds' in 'INSERT INTO'
+[05-Apr-2025 21:26:00 America/New_York] Error creating ride: Unknown column 'duration_seconds' in 'INSERT INTO'
+[05-Apr-2025 21:27:21 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 21:27:36 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 21:27:36 America/New_York] Google Maps API response: {"destination_addresses":["93 Independence St, Vreed en Hoop, Guyana"],"origin_addresses":["52 Pere St, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"14.5 km","value":14538},"duration":{"text":"33 mins","value":1965},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 21:27:38 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/u169889364/domains/autositetest.com/public_html/process-booking.php:201
+Stack trace:
+#0 /home/u169889364/domains/autositetest.com/public_html/process-booking.php(201): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u169889364/domains/autositetest.com/public_html/process-booking.php on line 201
+[05-Apr-2025 22:39:04 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 22:39:15 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 22:39:15 America/New_York] Google Maps API response: {"destination_addresses":["93 Regent St, Georgetown, Guyana"],"origin_addresses":["52 Hadfield St, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"1.1 km","value":1055},"duration":{"text":"4 mins","value":247},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 22:39:47 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 22:39:54 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 22:39:54 America/New_York] Google Maps API response: {"destination_addresses":["94 King St, Georgetown, Guyana"],"origin_addresses":["52 Hadfield St, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"1.1 km","value":1059},"duration":{"text":"4 mins","value":251},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 22:39:56 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/u169889364/domains/autositetest.com/public_html/process-booking.php:201
+Stack trace:
+#0 /home/u169889364/domains/autositetest.com/public_html/process-booking.php(201): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u169889364/domains/autositetest.com/public_html/process-booking.php on line 201
+[05-Apr-2025 22:42:46 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 22:42:54 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 22:42:54 America/New_York] Google Maps API response: {"destination_addresses":["94 Campbell Ave, Georgetown, Guyana"],"origin_addresses":["52 Stanley Place, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"1.9 km","value":1863},"duration":{"text":"5 mins","value":326},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 22:42:56 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/u169889364/domains/autositetest.com/public_html/process-booking.php:196
+Stack trace:
+#0 /home/u169889364/domains/autositetest.com/public_html/process-booking.php(196): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u169889364/domains/autositetest.com/public_html/process-booking.php on line 196
+[05-Apr-2025 22:42:58 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/u169889364/domains/autositetest.com/public_html/process-booking.php:196
+Stack trace:
+#0 /home/u169889364/domains/autositetest.com/public_html/process-booking.php(196): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u169889364/domains/autositetest.com/public_html/process-booking.php on line 196
+[05-Apr-2025 22:54:07 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[05-Apr-2025 22:54:17 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[05-Apr-2025 22:54:18 America/New_York] Google Maps API response: {"destination_addresses":["65 Dennis St, Georgetown, Guyana"],"origin_addresses":["52 Hadfield St, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"3.8 km","value":3807},"duration":{"text":"9 mins","value":542},"status":"OK"}]}],"status":"OK"}
+[05-Apr-2025 22:54:21 America/New_York] Error in distance calculation: Google Maps API key is not defined.
+[05-Apr-2025 22:54:21 America/New_York] Using fallback distance calculation: 52 Hadfield Street, Georgetown, Guyana to 65 Dennis Street, Georgetown, Guyana = 2.5 km, 600s
+[05-Apr-2025 22:54:21 America/New_York] Error creating ride: Unknown column 'base_fare' in 'INSERT INTO' in /home/u169889364/domains/autositetest.com/public_html/process-booking.php:244
+[05-Apr-2025 22:54:21 America/New_York] SQL State: 42S22
+[06-Apr-2025 01:11:10 America/New_York] Redirecting to: https://autositetest.com/index.php
+[06-Apr-2025 01:11:12 America/New_York] Signup error: Invalid request method
+[06-Apr-2025 01:11:15 America/New_York] Redirecting to: https://autositetest.com/index.php
+[06-Apr-2025 01:11:16 America/New_York] Login process started
+[06-Apr-2025 01:11:16 America/New_York] Redirecting to: https://autositetest.com/index.php
+[06-Apr-2025 06:29:21 America/New_York] Login process started
+[06-Apr-2025 06:29:21 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome720333!"}
+[06-Apr-2025 06:29:22 America/New_York] Login process started
+[06-Apr-2025 06:29:22 America/New_York] Login data: {"email":"after19dark@gmail.com","password":"Welcome720333!"}
+[06-Apr-2025 06:32:02 America/New_York] API Request via index.php: /api/index.php/fare-estimate - Extracted Endpoint: fare-estimate
+[06-Apr-2025 06:32:03 America/New_York] Google Maps API response: {"destination_addresses":["45 Croal St, Georgetown, Guyana"],"origin_addresses":["52 Stanley Place, Georgetown, Guyana"],"rows":[{"elements":[{"distance":{"text":"3.2 km","value":3245},"duration":{"text":"8 mins","value":481},"status":"OK"}]}],"status":"OK"}
+[06-Apr-2025 06:35:10 America/New_York] Login process started
+[06-Apr-2025 06:35:10 America/New_York] Login data: {"email":"zackzayden3@gmail.com","password":"Welcome720333!"}
+[06-Apr-2025 06:35:19 America/New_York] Login process started
+[06-Apr-2025 06:35:19 America/New_York] Login data: {"email":"zackzayden3@gmail.com","password":"Welcome720333!"}
+[06-Apr-2025 06:47:54 America/New_York] Password reset email sent to: after19dark@gmail.com
+[06-Apr-2025 09:21:53 America/New_York] Redirecting to: https://autositetest.com/driver-login.php
+[06-Apr-2025 22:40:48 America/New_York] Redirecting to: https://autositetest.com/driver-login.php
+[06-Apr-2025 23:17:51 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[06-Apr-2025 23:25:30 America/New_York] Getting current user: {"id":5,"name":"Akeem Clinton Rollox","email":"after19dark@gmail.com","phone":"+5926888718","language":"en","created_at":"2025-04-04 05:21:30","updated_at":null}
+[07-Apr-2025 03:28:49 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/u169889364/domains/autositetest.com/public_html/includes/config.php on line 16
+[07-Apr-2025 03:29:08 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/u169889364/domains/autositetest.com/public_html/includes/config.php on line 16
+[07-Apr-2025 03:36:22 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/u169889364/domains/autositetest.com/public_html/includes/config.php on line 16
+[07-Apr-2025 03:36:27 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/u169889364/domains/autositetest.com/public_html/includes/config.php on line 16
+[06-Apr-2025 23:38:20 America/New_York] PHP Parse error:  Unclosed '{' on line 17 in /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php on line 754
+[06-Apr-2025 23:38:24 America/New_York] PHP Parse error:  Unclosed '{' on line 17 in /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php on line 754
+[06-Apr-2025 23:38:25 America/New_York] PHP Parse error:  Unclosed '{' on line 17 in /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php on line 754
+[07-Apr-2025 03:42:08 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/u169889364/domains/autositetest.com/public_html/includes/config.php on line 16
+[07-Apr-2025 03:44:38 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/u169889364/domains/autositetest.com/public_html/includes/config.php on line 16
+[06-Apr-2025 23:51:54 America/New_York] Admin logged out. Admin ID: 1, Username: admin
+[07-Apr-2025 00:20:54 America/New_York] PHP Warning:  Undefined array key "status" in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 80
+[07-Apr-2025 00:20:54 America/New_York] PHP Warning:  Undefined array key "status" in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 81
+[07-Apr-2025 00:20:54 America/New_York] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 81
+[07-Apr-2025 00:20:54 America/New_York] PHP Warning:  Undefined array key "status" in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 80
+[07-Apr-2025 00:20:54 America/New_York] PHP Warning:  Undefined array key "status" in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 81
+[07-Apr-2025 00:20:54 America/New_York] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 81
+[07-Apr-2025 00:22:16 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 00:22:16 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 00:22:16 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 00:22:55 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 00:22:55 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 00:22:55 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:12:08 America/New_York] Signup error: Invalid request method
+[07-Apr-2025 01:12:11 America/New_York] Login process started
+[07-Apr-2025 01:12:11 America/New_York] Redirecting to: https://autositetest.com/index.php
+[07-Apr-2025 01:12:12 America/New_York] Redirecting to: https://autositetest.com/index.php
+[07-Apr-2025 01:12:14 America/New_York] Redirecting to: https://autositetest.com/index.php
+[07-Apr-2025 01:13:36 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:13:36 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:13:36 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:14:38 America/New_York] PHP Warning:  Undefined array key "status" in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 80
+[07-Apr-2025 01:14:38 America/New_York] PHP Warning:  Undefined array key "status" in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 81
+[07-Apr-2025 01:14:38 America/New_York] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 81
+[07-Apr-2025 01:14:38 America/New_York] PHP Warning:  Undefined array key "status" in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 80
+[07-Apr-2025 01:14:38 America/New_York] PHP Warning:  Undefined array key "status" in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 81
+[07-Apr-2025 01:14:38 America/New_York] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/u169889364/domains/autositetest.com/public_html/admin-users.php on line 81
+[07-Apr-2025 01:14:42 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:14:42 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:14:42 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:14:45 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:14:45 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:14:45 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:14:45 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:14:45 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:18 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:18 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:18 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:18 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:18 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:25 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:25 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:25 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:25 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:25 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:28 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:28 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:28 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:28 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:28 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:36 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:36 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:36 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:36 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:36 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:38 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:38 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:38 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:38 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:38 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:40 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:40 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:40 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:40 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:40 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:46 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:46 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:46 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:46 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:46 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:49 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:49 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:49 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:49 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:49 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:16:51 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:16:51 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:16:51 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:16:51 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:16:51 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:20:04 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:20:04 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:20:04 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:20:04 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:20:04 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:20:06 America/New_York] Admin logged out. Admin ID: 1, Username: admin
+[07-Apr-2025 01:20:08 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:20:08 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:20:08 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:20:08 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:20:08 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:20:10 America/New_York] Admin logged out. Admin ID: 1, Username: admin
+[07-Apr-2025 01:20:21 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:20:21 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:20:21 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:20:21 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:20:21 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:29:51 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:29:51 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:29:51 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:46:51 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:46:51 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:46:51 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:46:51 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:46:55 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:46:55 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:46:55 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:46:55 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:47:27 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:47:27 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:47:27 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:47:27 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:47:27 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:47:29 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:47:29 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:47:29 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:47:29 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:48:35 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:35 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:35 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:35 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:48:42 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:42 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:42 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:42 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:48:44 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:44 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:44 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:44 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:48:45 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:45 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:45 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:45 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:48:59 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:59 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:59 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:48:59 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:49:17 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:49:17 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:49:17 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:49:17 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:49:27 America/New_York] Database query exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:49:27 America/New_York] dbFetchAll exception: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:49:27 America/New_York] Error getting all drivers: Unknown column 'driver_id' in 'WHERE'
+[07-Apr-2025 01:49:27 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(394): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:56:58 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:56:58 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:56:58 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:56:58 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:56:58 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:57:02 America/New_York] Database query exception: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:57:02 America/New_York] dbFetchAll exception: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:57:02 America/New_York] Error getting all drivers: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:57:02 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(431): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:57:10 America/New_York] Database query exception: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:57:10 America/New_York] dbFetchAll exception: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:57:10 America/New_York] Error getting all drivers: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:57:10 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(431): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 01:59:38 America/New_York] PHP Warning:  Undefined variable $periodLabel in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 114
+[07-Apr-2025 01:59:38 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 123
+[07-Apr-2025 01:59:38 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 151
+[07-Apr-2025 01:59:38 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 171
+[07-Apr-2025 01:59:38 America/New_York] PHP Warning:  Undefined variable $period in /home/u169889364/domains/autositetest.com/public_html/admin-dashboard.php on line 172
+[07-Apr-2025 01:59:43 America/New_York] Database query exception: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:59:43 America/New_York] dbFetchAll exception: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:59:43 America/New_York] Error getting all drivers: Unknown column 'ride_ratings.driver_id' in 'WHERE'
+[07-Apr-2025 01:59:43 America/New_York] Stack trace: #0 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(69): mysqli->prepare()
+#1 /home/u169889364/domains/autositetest.com/public_html/includes/db.php(153): dbQuery()
+#2 /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php(431): dbFetchAll()
+#3 /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php(22): getAllDrivers()
+#4 {main}
+[07-Apr-2025 03:05:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:115) in /home/u169889364/domains/autositetest.com/public_html/admin-login.php on line 785
+[07-Apr-2025 03:05:52 America/New_York] MINIMAL DEBUG: Authentication skipped.
+[07-Apr-2025 03:05:52 America/New_York] Error in process-admin-driver.php (MINIMAL DEBUG): Minimal Debug: Invalid request method.
+[07-Apr-2025 03:15:31 America/New_York] PHP Fatal error:  Cannot redeclare isAdminLoggedIn() (previously declared in /home/u169889364/domains/autositetest.com/public_html/includes/config.php:106) in /home/u169889364/domains/autositetest.com/public_html/includes/admin-functions.php on line 12
+[07-Apr-2025 03:16:36 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:115) in /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php on line 852
+[07-Apr-2025 03:16:36 America/New_York] Error in process-admin-driver.php: Invalid request method. Only POST is allowed. | Input Data: null
+[07-Apr-2025 03:17:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:115) in /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php on line 785
+[07-Apr-2025 03:17:17 America/New_York] MINIMAL DEBUG: Authentication skipped.
+[07-Apr-2025 03:17:17 America/New_York] Error in process-admin-driver.php (MINIMAL DEBUG): Minimal Debug: Invalid request method.
+[07-Apr-2025 03:18:11 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:115) in /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php on line 785
+[07-Apr-2025 03:18:11 America/New_York] MINIMAL DEBUG: Authentication skipped.
+[07-Apr-2025 03:18:11 America/New_York] Error in process-admin-driver.php (MINIMAL DEBUG): Minimal Debug: Invalid request method.
+[07-Apr-2025 03:20:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:115) in /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php on line 785
+[07-Apr-2025 03:20:59 America/New_York] MINIMAL DEBUG: Authentication skipped.
+[07-Apr-2025 03:20:59 America/New_York] Error in process-admin-driver.php (MINIMAL DEBUG): Minimal Debug: Invalid request method.
+[07-Apr-2025 03:28:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:115) in /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php on line 785
+[07-Apr-2025 03:28:49 America/New_York] MINIMAL DEBUG: Authentication skipped.
+[07-Apr-2025 03:28:49 America/New_York] Error in process-admin-driver.php (MINIMAL DEBUG): Minimal Debug: Invalid request method.
+[07-Apr-2025 03:36:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:85) in /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php on line 785
+[07-Apr-2025 03:36:09 America/New_York] MINIMAL DEBUG: Authentication skipped.
+[07-Apr-2025 03:36:09 America/New_York] Error in process-admin-driver.php (MINIMAL DEBUG): Minimal Debug: Invalid request method.
+[07-Apr-2025 03:36:32 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:85) in /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php on line 785
+[07-Apr-2025 03:36:32 America/New_York] MINIMAL DEBUG: Authentication skipped.
+[07-Apr-2025 03:36:32 America/New_York] Error in process-admin-driver.php (MINIMAL DEBUG): Minimal Debug: Invalid request method.
+[07-Apr-2025 03:40:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u169889364/domains/autositetest.com/public_html/includes/admin-header.php:85) in /home/u169889364/domains/autositetest.com/public_html/admin-drivers.php on line 785
+[07-Apr-2025 03:40:23 America/New_York] MINIMAL DEBUG: Authentication skipped.
+[07-Apr-2025 03:40:23 America/New_York] Error in process-admin-driver.php (MINIMAL DEBUG): Minimal Debug: Invalid request method.

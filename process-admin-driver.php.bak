@@ -1,0 +1,270 @@
+<?php
+// process-admin-driver.php - Proper implementation
+require_once 'includes/config.php';
+require_once 'includes/functions.php';
+require_once 'includes/db.php';
+require_once 'includes/admin-functions.php';
+
+// Ensure admin is logged in
+requireAdminLogin();
+
+// Set content type to JSON
+header('Content-Type: application/json');
+
+// Get request data
+$isAjax = isset($_SERVER['HTTP_X_REQUESTED_WITH']) && 
+          strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest';
+
+// Process AJAX requests
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    // Get post data from different sources
+    $postData = [];
+    
+    // Try to get JSON input
+    $jsonInput = file_get_contents("php://input");
+    if (!empty($jsonInput)) {
+        $jsonData = json_decode($jsonInput, true);
+        if ($jsonData !== null) {
+            $postData = $jsonData;
+        }
+    }
+    
+    // If no JSON data, try regular POST
+    if (empty($postData)) {
+        $postData = $_POST;
+    }
+    
+    // Ensure there's an action
+    if (!isset($postData['action'])) {
+        echo json_encode([
+            'success' => false,
+            'message' => 'Missing action parameter'
+        ]);
+        exit;
+    }
+    
+    // Extract action and CSRF token
+    $action = $postData['action'];
+    $csrfToken = $postData['csrf_token'] ?? '';
+    
+    // Validate CSRF token for sensitive actions
+    $requireCsrf = ['add', 'edit', 'update', 'delete'];
+    if (in_array($action, $requireCsrf) && !verifyCSRFToken($csrfToken)) {
+        echo json_encode([
+            'success' => false,
+            'message' => 'Session expired. Please refresh the page and try again.',
+            'authenticated' => false
+        ]);
+        exit;
+    }
+
+    // Process the requested action
+    switch ($action) {
+        case 'get_driver':
+        case 'view':
+            // Check for driver ID
+            if (!isset($postData['driver_id']) || !is_numeric($postData['driver_id'])) {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Invalid driver ID'
+                ]);
+                break;
+            }
+            
+            $driverId = (int)$postData['driver_id'];
+            
+            // Get driver details using the admin function
+            $driver = getDriverDetails($driverId);
+            
+            if ($driver) {
+                echo json_encode([
+                    'success' => true,
+                    'driver' => $driver
+                ]);
+            } else {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Driver not found'
+                ]);
+            }
+            break;
+            
+        case 'add':
+            // Validate required fields
+            $requiredFields = ['name', 'email', 'phone', 'vehicle', 'plate', 'vehicle_type', 'password'];
+            foreach ($requiredFields as $field) {
+                if (!isset($postData[$field]) || trim($postData[$field]) === '') {
+                    echo json_encode([
+                        'success' => false,
+                        'message' => 'All required fields must be filled'
+                    ]);
+                    exit;
+                }
+            }
+            
+            // Check if email already exists
+            if (driverEmailExists($postData['email'])) {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Email already in use by another driver'
+                ]);
+                exit;
+            }
+            
+            // Prepare driver data (sanitize inputs)
+            $driverData = [
+                'name' => sanitize($postData['name']),
+                'email' => sanitize($postData['email']),
+                'phone' => sanitize($postData['phone']),
+                'vehicle' => sanitize($postData['vehicle']),
+                'plate' => sanitize($postData['plate']),
+                'vehicle_type' => sanitize($postData['vehicle_type']),
+                'password' => $postData['password'], // Will be hashed in addDriver function
+                'status' => sanitize($postData['status'] ?? 'offline')
+            ];
+            
+            // Add the driver
+            $driverId = addDriver($driverData);
+            
+            if ($driverId) {
+                echo json_encode([
+                    'success' => true,
+                    'message' => 'Driver added successfully',
+                    'driver_id' => $driverId
+                ]);
+            } else {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Failed to add driver'
+                ]);
+            }
+            break;
+            
+        case 'edit':
+        case 'update':
+            // Check for driver ID
+            if (!isset($postData['driver_id']) || !is_numeric($postData['driver_id'])) {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Invalid driver ID'
+                ]);
+                exit;
+            }
+            
+            $driverId = (int)$postData['driver_id'];
+            
+            // Validate required fields
+            $requiredFields = ['name', 'email', 'phone', 'vehicle', 'plate', 'vehicle_type'];
+            foreach ($requiredFields as $field) {
+                if (!isset($postData[$field]) || trim($postData[$field]) === '') {
+                    echo json_encode([
+                        'success' => false,
+                        'message' => 'All required fields must be filled'
+                    ]);
+                    exit;
+                }
+            }
+            
+            // Check if email exists for other drivers
+            if (driverEmailExists($postData['email'], $driverId)) {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Email already in use by another driver'
+                ]);
+                exit;
+            }
+            
+            // Prepare driver data (sanitize inputs)
+            $driverData = [
+                'name' => sanitize($postData['name']),
+                'email' => sanitize($postData['email']),
+                'phone' => sanitize($postData['phone']),
+                'vehicle' => sanitize($postData['vehicle']),
+                'plate' => sanitize($postData['plate']),
+                'vehicle_type' => sanitize($postData['vehicle_type']),
+                'status' => sanitize($postData['status'] ?? 'offline')
+            ];
+            
+            // Add password only if provided
+            if (isset($postData['password']) && !empty($postData['password'])) {
+                $driverData['password'] = $postData['password'];
+            }
+            
+            // Update the driver
+            $result = updateDriver($driverId, $driverData);
+            
+            if ($result) {
+                echo json_encode([
+                    'success' => true,
+                    'message' => 'Driver updated successfully'
+                ]);
+            } else {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Failed to update driver'
+                ]);
+            }
+            break;
+            
+        case 'delete':
+            // Check for driver ID
+            if (!isset($postData['driver_id']) || !is_numeric($postData['driver_id'])) {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Invalid driver ID'
+                ]);
+                exit;
+            }
+            
+            $driverId = (int)$postData['driver_id'];
+            
+            // Delete the driver
+            $result = deleteDriver($driverId);
+            
+            if ($result) {
+                echo json_encode([
+                    'success' => true,
+                    'message' => 'Driver deleted successfully'
+                ]);
+            } else {
+                echo json_encode([
+                    'success' => false,
+                    'message' => 'Failed to delete driver. This may be because the driver has associated rides.'
+                ]);
+            }
+            break;
+            
+        case 'fetch':
+            // Get all drivers
+            $page = isset($postData['page']) ? (int)$postData['page'] : 1;
+            $perPage = isset($postData['per_page']) ? (int)$postData['per_page'] : 10;
+            $search = isset($postData['search']) ? $postData['search'] : '';
+            
+            $driversData = getAllDrivers($page, $perPage, $search);
+            
+            echo json_encode([
+                'success' => true,
+                'drivers' => $driversData['drivers'],
+                'total' => $driversData['total'],
+                'page' => $driversData['page'],
+                'pageCount' => $driversData['pageCount']
+            ]);
+            break;
+            
+        default:
+            echo json_encode([
+                'success' => false,
+                'message' => 'Invalid action'
+            ]);
+            break;
+    }
+    
+    exit;
+}
+
+// If not a POST request or AJAX request
+echo json_encode([
+    'success' => false,
+    'message' => 'Invalid request method'
+]);
+exit;

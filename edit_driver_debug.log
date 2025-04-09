@@ -1,0 +1,436 @@
+[2025-04-07 07:06:52] Edit driver page loaded
+[2025-04-07 07:06:52] Admin login check passed
+[2025-04-07 07:06:52] Driver ID from GET - Data: 1
+[2025-04-07 07:06:52] Getting driver details for ID - Data: 1
+[2025-04-07 07:06:52] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$yQwWcOqeWdrBfyxECS5tn.kio.i52p9uw2jEw8d0IKpb7KWc/9BLu
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:06:52] Admin header included
+[2025-04-07 07:06:52] Rendering form complete
+[2025-04-07 07:06:52] Admin footer included
+[2025-04-07 07:06:59] Edit driver page loaded
+[2025-04-07 07:06:59] Admin login check passed
+[2025-04-07 07:06:59] Driver ID from GET - Data: 0
+[2025-04-07 07:06:59] Form submitted - Data: Array
+(
+    [csrf_token] => a04ee228681a2549ed6b4bf1021c3a1ea5d8fe47c574c2d928bddb45ffac74a2
+    [action] => update
+    [driver_id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [password] => 
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [vehicle_type] => standard
+    [status] => available
+)
+
+[2025-04-07 07:06:59] Action - Data: update
+[2025-04-07 07:06:59] Processing update action
+[2025-04-07 07:06:59] Driver ID from form - Data: 1
+[2025-04-07 07:06:59] Driver data prepared - Data: Array
+(
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [vehicle_type] => standard
+    [status] => available
+)
+
+[2025-04-07 07:06:59] No password provided, skipping
+[2025-04-07 07:06:59] Update driver result - Data: 
+[2025-04-07 07:06:59] Update failed with updateDriver, trying direct update
+[2025-04-07 07:06:59] Database connected
+[2025-04-07 07:06:59] Direct update query - Data: UPDATE drivers SET name = ?, email = ?, phone = ?, vehicle = ?, plate = ?, vehicle_type = ?, status = ? WHERE id = ?
+[2025-04-07 07:06:59] Exception in direct update - Data: Unknown column 'vehicle_type' in 'SET'
+[2025-04-07 07:06:59] Update failed, returning to edit form
+[2025-04-07 07:07:00] Edit driver page loaded
+[2025-04-07 07:07:00] Admin login check passed
+[2025-04-07 07:07:00] Driver ID from GET - Data: 1
+[2025-04-07 07:07:00] Getting driver details for ID - Data: 1
+[2025-04-07 07:07:00] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$yQwWcOqeWdrBfyxECS5tn.kio.i52p9uw2jEw8d0IKpb7KWc/9BLu
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:07:00] Admin header included
+[2025-04-07 07:07:00] Rendering form complete
+[2025-04-07 07:07:00] Admin footer included
+[2025-04-07 07:07:12] Edit driver page loaded
+[2025-04-07 07:07:12] Admin login check passed
+[2025-04-07 07:07:12] Driver ID from GET - Data: 0
+[2025-04-07 07:07:12] Form submitted - Data: Array
+(
+    [csrf_token] => a04ee228681a2549ed6b4bf1021c3a1ea5d8fe47c574c2d928bddb45ffac74a2
+    [action] => update
+    [driver_id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [password] => 
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [vehicle_type] => standard
+    [status] => available
+)
+
+[2025-04-07 07:07:12] Action - Data: update
+[2025-04-07 07:07:12] Processing update action
+[2025-04-07 07:07:12] Driver ID from form - Data: 1
+[2025-04-07 07:07:12] Driver data prepared - Data: Array
+(
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [vehicle_type] => standard
+    [status] => available
+)
+
+[2025-04-07 07:07:12] No password provided, skipping
+[2025-04-07 07:07:12] Update driver result - Data: 
+[2025-04-07 07:07:12] Update failed with updateDriver, trying direct update
+[2025-04-07 07:07:12] Database connected
+[2025-04-07 07:07:12] Direct update query - Data: UPDATE drivers SET name = ?, email = ?, phone = ?, vehicle = ?, plate = ?, vehicle_type = ?, status = ? WHERE id = ?
+[2025-04-07 07:07:12] Exception in direct update - Data: Unknown column 'vehicle_type' in 'SET'
+[2025-04-07 07:07:12] Update failed, returning to edit form
+[2025-04-07 07:07:13] Edit driver page loaded
+[2025-04-07 07:07:13] Admin login check passed
+[2025-04-07 07:07:13] Driver ID from GET - Data: 1
+[2025-04-07 07:07:13] Getting driver details for ID - Data: 1
+[2025-04-07 07:07:13] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$yQwWcOqeWdrBfyxECS5tn.kio.i52p9uw2jEw8d0IKpb7KWc/9BLu
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:07:13] Admin header included
+[2025-04-07 07:07:13] Rendering form complete
+[2025-04-07 07:07:13] Admin footer included
+[2025-04-07 07:09:40] Edit driver page loaded
+[2025-04-07 07:09:40] Admin login check passed
+[2025-04-07 07:09:40] Driver ID from GET - Data: 1
+[2025-04-07 07:09:40] Getting driver details for ID - Data: 1
+[2025-04-07 07:09:40] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$yQwWcOqeWdrBfyxECS5tn.kio.i52p9uw2jEw8d0IKpb7KWc/9BLu
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:09:40] Admin header included
+[2025-04-07 07:09:40] Rendering form complete
+[2025-04-07 07:09:40] Admin footer included
+[2025-04-07 07:09:46] Edit driver page loaded
+[2025-04-07 07:09:46] Admin login check passed
+[2025-04-07 07:09:46] Driver ID from GET - Data: 0
+[2025-04-07 07:09:46] Form submitted - Data: Array
+(
+    [csrf_token] => a04ee228681a2549ed6b4bf1021c3a1ea5d8fe47c574c2d928bddb45ffac74a2
+    [action] => update
+    [driver_id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [password] => 
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [status] => available
+    [vehicle_type] => standard
+)
+
+[2025-04-07 07:09:46] Action - Data: update
+[2025-04-07 07:09:46] Processing update action
+[2025-04-07 07:09:46] Driver ID from form - Data: 1
+[2025-04-07 07:09:46] Driver data prepared - Data: Array
+(
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [status] => available
+)
+
+[2025-04-07 07:09:46] No password provided, skipping
+[2025-04-07 07:09:46] Update driver result - Data: 1
+[2025-04-07 07:09:46] Update successful, redirecting to admin-drivers.php
+[2025-04-07 07:12:43] Edit driver page loaded
+[2025-04-07 07:12:43] Admin login check passed
+[2025-04-07 07:12:43] Driver ID from GET - Data: 1
+[2025-04-07 07:12:43] Getting driver details for ID - Data: 1
+[2025-04-07 07:12:43] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$yQwWcOqeWdrBfyxECS5tn.kio.i52p9uw2jEw8d0IKpb7KWc/9BLu
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [vehicle_type] => standard
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:12:43] Admin header included
+[2025-04-07 07:12:43] Rendering form complete
+[2025-04-07 07:12:43] Admin footer included
+[2025-04-07 07:12:47] Edit driver page loaded
+[2025-04-07 07:12:47] Admin login check passed
+[2025-04-07 07:12:47] Driver ID from GET - Data: 0
+[2025-04-07 07:12:47] Form submitted - Data: Array
+(
+    [csrf_token] => a04ee228681a2549ed6b4bf1021c3a1ea5d8fe47c574c2d928bddb45ffac74a2
+    [action] => update
+    [driver_id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [password] => 
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [vehicle_type] => standard
+    [status] => available
+)
+
+[2025-04-07 07:12:47] Action - Data: update
+[2025-04-07 07:12:47] Processing update action
+[2025-04-07 07:12:47] Driver ID from form - Data: 1
+[2025-04-07 07:12:47] Driver data prepared - Data: Array
+(
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [vehicle_type] => standard
+    [status] => available
+)
+
+[2025-04-07 07:12:47] No password provided, skipping
+[2025-04-07 07:12:47] Update driver result - Data: 1
+[2025-04-07 07:12:47] Update successful, redirecting to driver list
+[2025-04-07 07:12:56] Edit driver page loaded
+[2025-04-07 07:12:56] Admin login check passed
+[2025-04-07 07:12:56] Driver ID from GET - Data: 1
+[2025-04-07 07:12:56] Getting driver details for ID - Data: 1
+[2025-04-07 07:12:56] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$yQwWcOqeWdrBfyxECS5tn.kio.i52p9uw2jEw8d0IKpb7KWc/9BLu
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [vehicle_type] => standard
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:12:56] Admin header included
+[2025-04-07 07:12:56] Rendering form complete
+[2025-04-07 07:12:56] Admin footer included
+[2025-04-07 07:13:03] Edit driver page loaded
+[2025-04-07 07:13:03] Admin login check passed
+[2025-04-07 07:13:03] Driver ID from GET - Data: 1
+[2025-04-07 07:13:03] Getting driver details for ID - Data: 1
+[2025-04-07 07:13:04] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Zack Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$yQwWcOqeWdrBfyxECS5tn.kio.i52p9uw2jEw8d0IKpb7KWc/9BLu
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => ppl567
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [vehicle_type] => standard
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:13:04] Admin header included
+[2025-04-07 07:13:04] Rendering form complete
+[2025-04-07 07:13:04] Admin footer included
+[2025-04-07 07:13:30] Edit driver page loaded
+[2025-04-07 07:13:30] Admin login check passed
+[2025-04-07 07:13:30] Driver ID from GET - Data: 0
+[2025-04-07 07:13:30] Form submitted - Data: Array
+(
+    [csrf_token] => a04ee228681a2549ed6b4bf1021c3a1ea5d8fe47c574c2d928bddb45ffac74a2
+    [action] => update
+    [driver_id] => 1
+    [name] => Candacy Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [password] => Welcome720333!
+    [vehicle] => Toyota primo 2022
+    [plate] => PLL4467
+    [vehicle_type] => standard
+    [status] => available
+)
+
+[2025-04-07 07:13:30] Action - Data: update
+[2025-04-07 07:13:30] Processing update action
+[2025-04-07 07:13:30] Driver ID from form - Data: 1
+[2025-04-07 07:13:30] Driver data prepared - Data: Array
+(
+    [name] => Candacy Rollox
+    [email] => derouchecandacy@gmail.com
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => PLL4467
+    [vehicle_type] => standard
+    [status] => available
+)
+
+[2025-04-07 07:13:30] Password provided, adding to data
+[2025-04-07 07:13:30] Update driver result - Data: 1
+[2025-04-07 07:13:30] Update successful, redirecting to driver list
+[2025-04-07 07:13:51] Edit driver page loaded
+[2025-04-07 07:13:51] Admin login check passed
+[2025-04-07 07:13:51] Driver ID from GET - Data: 0
+[2025-04-07 07:13:51] Admin header included
+[2025-04-07 07:13:51] Rendering form complete
+[2025-04-07 07:13:51] Admin footer included
+[2025-04-07 07:15:26] Edit driver page loaded
+[2025-04-07 07:15:26] Admin login check passed
+[2025-04-07 07:15:26] Driver ID from GET - Data: 1
+[2025-04-07 07:15:26] Getting driver details for ID - Data: 1
+[2025-04-07 07:15:26] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Candacy Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$Lw7HLPxowZn8h/Wt3nCHSOjci.ry3VkrckJTgnBGqZFZMg9EY0BV2
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => PLL4467
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [vehicle_type] => standard
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:15:26] Admin header included
+[2025-04-07 07:15:26] Rendering form complete
+[2025-04-07 07:15:26] Admin footer included
+[2025-04-07 07:15:34] Edit driver page loaded
+[2025-04-07 07:15:34] Admin login check passed
+[2025-04-07 07:15:34] Driver ID from GET - Data: 1
+[2025-04-07 07:15:34] Getting driver details for ID - Data: 1
+[2025-04-07 07:15:34] Driver found - Data: Array
+(
+    [id] => 1
+    [name] => Candacy Rollox
+    [email] => derouchecandacy@gmail.com
+    [password] => $2y$10$Lw7HLPxowZn8h/Wt3nCHSOjci.ry3VkrckJTgnBGqZFZMg9EY0BV2
+    [phone] => +5927355678
+    [vehicle] => Toyota primo 2022
+    [plate] => PLL4467
+    [rating] => 5.0
+    [status] => available
+    [last_location_lat] => 
+    [last_location_lng] => 
+    [photo] => 
+    [created_at] => 2025-04-04 20:05:07
+    [updated_at] => 
+    [vehicle_type] => standard
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:15:34] Admin header included
+[2025-04-07 07:15:34] Rendering form complete
+[2025-04-07 07:15:34] Admin footer included

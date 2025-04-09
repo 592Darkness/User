@@ -1,0 +1,27 @@
+[2025-04-07 07:23:04] Edit user page loaded
+[2025-04-07 07:23:04] Admin login check passed
+[2025-04-07 07:23:04] User ID from GET - Data: 6
+[2025-04-07 07:23:04] Getting user details for ID - Data: 6
+[2025-04-07 07:23:04] User found - Data: Array
+(
+    [id] => 6
+    [name] => Zack Rollox
+    [email] => zackzayden3@gmail.com
+    [password] => $2y$10$2CZt.vhEVwXPFN.m6VwhY.C7b3STL9Sm/nlwNrGzhwqB5/70/8rym
+    [phone] => +5927102217
+    [language] => en
+    [created_at] => 2025-04-05 17:08:21
+    [updated_at] => 
+    [total_rides] => 1
+    [avg_rating] => 
+)
+
+[2025-04-07 07:23:04] Admin header included
+[2025-04-07 07:23:04] Rendering form complete
+[2025-04-07 07:23:04] Admin footer included
+[2025-04-07 07:23:29] Edit user page loaded
+[2025-04-07 07:23:29] Admin login check passed
+[2025-04-07 07:23:29] User ID from GET - Data: 0
+[2025-04-07 07:23:29] Admin header included
+[2025-04-07 07:23:29] Rendering form complete
+[2025-04-07 07:23:29] Admin footer included
